@@ -1,9 +1,9 @@
-<h2>Olá meu nome é Giulia!</h2>
+<h2>Olá, meu nome é Giulia Dias!</h2>
 
 
-- 👀 Desejo trabalhar como programador júnior.
+- 👀 Desejo trabalhar como programadora júnior.
 - 🌱 Estou atualmente estudando JavaScript e Java.
-- 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 96976-4189 ou envie um E-mail para: 
+- 📫 Caso queira entrar em contato comigo, mande-me uma mensagem pelo Whatsapp +55 (21) 96976-4189 ou envie um E-mail para: giuliadias2708@gmail.com
 
 <div style="display: inline_block; margin_bottom: 20px; background_color: purpple;"><br>
   <img align="center" alt="Jhon-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +33,6 @@
 
 
 <!---
-JonathanPinehiro19/JonathanPinehiro19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+giuliadiiass/giuliadiiass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
